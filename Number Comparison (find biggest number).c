@@ -1,6 +1,5 @@
 //  Number Comparison (find biggest number)
-#include <stdio.h>
-
+#include <stdio.h>
 int main() {
     int num1, num2;
 
