@@ -1,6 +1,5 @@
 // C Program to Perform Arithmetic Operation
-#include <stdio.h>
-
+#include <stdio.h>
 int main() {
     int a, b;
     int sum, diff, prod, mod;
