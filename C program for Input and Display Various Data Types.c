@@ -1,6 +1,5 @@
 // C program for Input and Display Various Data Types
 #include <stdio.h>
-
 int main() {
     int a;          // integer
     float b;        // float
@@ -29,3 +28,4 @@ int main() {
 
     return 0;
 }
+
