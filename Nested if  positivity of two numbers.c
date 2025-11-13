@@ -1,6 +1,5 @@
-//// Nested if: positivity of two numbers
-#include <stdio.h>
-
+//Nested if: positivity of two numbers
+#include <stdio.h>
 int main() {
     int a, b;
 
