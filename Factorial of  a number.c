@@ -1,6 +1,5 @@
 // Factorial of  a number
-#include <stdio.h>
-
+#include <stdio.h>
 int main() {
     int n, i;
     unsigned long long factorial = 1; // To handle large results
