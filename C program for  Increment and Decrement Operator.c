@@ -1,6 +1,5 @@
 // Increment/Decrement Operator
-#include <stdio.h>
-
+#include <stdio.h>
 int main() {
     int a;
 
