@@ -1,6 +1,5 @@
 // C Program for swapping of two numbers
-#include <stdio.h>
-
+#include <stdio.h>
 int main() {
     int a, b, temp;
 
