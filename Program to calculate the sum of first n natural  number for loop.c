@@ -1,6 +1,5 @@
 //  Program to calculate the sum of first n natural  number- for loop
-#include <stdio.h>
-
+#include <stdio.h>
 int main() {
     int n, i, sum = 0;
 
