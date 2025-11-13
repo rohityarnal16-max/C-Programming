@@ -1,6 +1,5 @@
 // C Program to Check Voting Eligibility
-#include <stdio.h>
-
+#include <stdio.h>
 int main() {
     int age;
 
