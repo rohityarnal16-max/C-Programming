@@ -1,6 +1,5 @@
 //  C program to perform all Arithmetic Operations ( + , - , * , / )
-#include <stdio.h>
-
+#include <stdio.h>
 int main() {
     float num1, num2;  // Using float to handle decimal values
     float sum, difference, product, division;
