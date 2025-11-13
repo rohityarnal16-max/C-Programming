@@ -1,6 +1,5 @@
 //  C Program to Compute Student Grade based on total  marks and display result (Pass/Fail).
- #include <stdio.h>
-
+ #include <stdio.h>
 int main() {
     int marks;
 
