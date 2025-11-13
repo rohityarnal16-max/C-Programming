@@ -1,6 +1,5 @@
 // C Program- Calculator using switch case
-#include <stdio.h>
-
+#include <stdio.h>
 int main() {
     char operator;
     double num1, num2, result;
