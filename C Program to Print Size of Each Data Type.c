@@ -1,6 +1,5 @@
 //C Program to Print Size of Each Data Type
-#include <stdio.h>
-
+#include <stdio.h>
 int main() {
     printf("Size of char: %lu bytes\n", sizeof(char));
     printf("Size of int: %lu bytes\n", sizeof(int));
