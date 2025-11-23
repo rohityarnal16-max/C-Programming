@@ -3,7 +3,7 @@
 int main() {
     int n, i = 1, sum = 0;
 
-    // Taking input from user
+    
     printf("Enter the value of n: ");
     scanf("%d", &n);
 
@@ -13,7 +13,7 @@ int main() {
         i++;
     } while (i <= n);
 
-    // Displaying result
+    
     printf("The sum of first %d natural numbers is: %d\n", n, sum);
 
     return 0;
