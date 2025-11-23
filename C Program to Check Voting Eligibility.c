@@ -3,11 +3,11 @@
 int main() {
     int age;
 
-    // Input age
+    
     printf("Enter your age: ");
     scanf("%d", &age);
 
-    // Check voting eligibility
+    
     if (age >= 18) {
         printf("You are eligible to vote.\n");
     }
