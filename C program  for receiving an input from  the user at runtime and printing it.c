@@ -2,12 +2,12 @@
 #include <stdio.h>
 
 int main() {
-    int num; // variable declaration
+    int num; 
 
-    printf("Enter a number: ");  // ask user for input
-    scanf("%d", &num);           // take input from user
+    printf("Enter a number: ");  
+    scanf("%d", &num);           
 
-    printf("given number is: %d\n", num);  // print the entered number
+    printf("given number is: %d\n", num);  
 
     return 0;
 }
