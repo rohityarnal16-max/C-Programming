@@ -3,11 +3,11 @@
 int main() {
     int num;
 
-    // Input a number
+    
     printf("Enter a number: ");
     scanf("%d", &num);
 
-    // Check condition
+    
     if (num > 0) {
         printf("%d is a positive number.\n", num);
     }
