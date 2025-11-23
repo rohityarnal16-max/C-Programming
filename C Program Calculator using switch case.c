@@ -4,14 +4,14 @@ int main() {
     char operator;
     double num1, num2, result;
 
-    // Taking input from user
+    
     printf("Enter an operator (+, -, *, /): ");
     scanf("%c", &operator);
 
     printf("Enter two numbers: ");
     scanf("%lf %lf", &num1, &num2);
 
-    // Performing operation based on user choice
+    
     switch (operator) {
         case '+':
             result = num1 + num2;
