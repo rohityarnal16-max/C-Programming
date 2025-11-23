@@ -2,12 +2,12 @@
 #include <stdio.h>
 
 int main() {
-    int a = 5;             // integer type
-    float b = 5.0;          // float type
-    char c = 'A';           // character type
-    double d = 12.3456;     // double type
+    int a = 5;             
+    float b = 5.0;          
+    char c = 'A';           
+    double d = 12.3456;     
 
-    // Displaying the values of different data types
+    
     printf("Integer value: %d\n", a);
     printf("Float value: %.2f\n", b);
     printf("Character value: %c\n", c);
